@@ -2,3 +2,4 @@
 
 Simple Maven Project
 welcome
+hello people
